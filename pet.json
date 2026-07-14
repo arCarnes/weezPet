@@ -1,7 +1,7 @@
 {
-  "id": "weez-realistic",
-  "displayName": "Weez (Realistic)",
-  "description": "A realistic illustrated orange tabby with a white bib, muzzle, and socks, green eyes, and a confidently curious expression.",
+  "id": "weez",
+  "displayName": "Weez",
+  "description": "A round-cheeked orange-and-white tabby who alternates between goofy curiosity and a deeply unimpressed glare.",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

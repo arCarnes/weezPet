@@ -1,6 +1,6 @@
-# Weez (Realistic)
+# Weez
 
-Weez is a Codex-compatible v2 animated pet based on a real orange tabby cat.
+Weez is the new and improved Codex-compatible v2 animated orange-and-white tabby pet.
 
 The package contains:
 
